@@ -1,5 +1,5 @@
 astroid==2.1.0
-bottle==0.12.16
+bottle==0.12.19
 certifi==2018.11.29
 chardet==3.0.4
 cycler==0.10.0
